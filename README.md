@@ -1,6 +1,6 @@
 # Mi Ruta para ser FullStack Developer con DevOps - Especializado en IA Generativa
 
-Como estudiante de ciencia de datos que no quiere solo entrenar modelos, el presente repo es más bien una manera de organizar mi preparación hacia un perfil centrado en el desarrollo, despliegue y escalabilidad de aplicaciones que integran modelos de IA generativa, abarcando todo el ciclo de vida del software, combinando:
+Como estudiante de ciencia de datos que no quiere solo entrenar modelos(?), el presente repo es más bien una manera de organizar mi preparación hacia un perfil centrado en el desarrollo, despliegue y escalabilidad de aplicaciones que integran modelos de IA generativa, abarcando todo el ciclo de vida del software, combinando:
 
 🔹 Backend y APIs: Construcción de servicios con Django/FastAPI, bases de datos SQL/NoSQL y arquitecturas escalables. \
 🔹 Frontend: Desarrollo de interfaces interactivas con React/Next.js y TypeScript. \
